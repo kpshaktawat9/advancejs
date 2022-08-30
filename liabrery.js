@@ -1,0 +1,1 @@
+export { show,user } from "./secound.js"; 
